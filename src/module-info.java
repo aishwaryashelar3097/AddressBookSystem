@@ -38,7 +38,7 @@ public class Main {
         } while (!choice.equals("1") && !choice.equals("2"));
         System.out.println();
         showMainMenu();
-    }
+   
 
     private static void findBySurname() {
         System.out.print("Enter surname: ");
